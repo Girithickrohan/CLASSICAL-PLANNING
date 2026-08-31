@@ -138,7 +138,7 @@ print("Output:", plan)
 
 <h1> Output </h1>
 
-![img]()
+![img](https://github.com/Girithickrohan/CLASSICAL-PLANNING/blob/main/Screenshot%202026-08-31%20143020.png)
 
 <hr>
 
